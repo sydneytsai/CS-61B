@@ -1,0 +1,9 @@
+#* java -ea ataxx.Main
+# Trivial test of moves with blocks
+manual blue
+block a6
+block d4
+a7-c5
+a1-b2
+dump
+quit
