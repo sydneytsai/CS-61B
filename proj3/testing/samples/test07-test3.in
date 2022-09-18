@@ -1,0 +1,16 @@
+>
+Please enter a command.
+<<<
+> init
+<<<
++ h.txt wug.txt
+> add h.txt
+<<<
+> commit ""
+Please enter a commit message.
+<<<
+> commit "KRUSTYKRABPIZZA"
+<<<
+> find "ISTHEPIZZA4UANDME"
+Found no commit with that message.
+<<<
